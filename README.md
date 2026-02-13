@@ -9,19 +9,19 @@ This project demonstrates core programming concepts like game loops, collision d
 
 ## 🚀 Features
 
-🎯 Smooth snake movement using arrow keys
+-  Smooth snake movement using arrow keys
 
-🍎 Random food generation with random shapes & colors
+-  Random food generation with random shapes & colors
 
-📈 Live score and high score tracking
+-  Live score and high score tracking
 
-💥 Wall collision detection
+-  Wall collision detection
 
-🔁 Self-collision detection
+-  Self-collision detection
 
-⚡ Increasing difficulty as score increases
+- Increasing difficulty as score increases
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 
@@ -89,12 +89,8 @@ cd snake-game
 
 ## 🤝Connect
 
-Created: Priyabrata subhransu Behera.
+Created: Priyabrata subhransu Behera .
 
 Email: [psubhransubehera@gmail.com]
 
 Lingdin: [www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369]
-
-⭐ Star the repository
-💬 Connect with me on LinkedIn
-🚀 Check out my other Python projects
