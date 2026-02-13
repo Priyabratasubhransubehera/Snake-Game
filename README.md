@@ -5,7 +5,7 @@ This project demonstrates core programming concepts like game loops, collision d
 
 ## 🎮 Game Preview
 
-(https://github.com/Priyabratasubhransubehera/Snake-Game/blob/main/Snake%20Game%20.png)
+![Dashboard](https://github.com/Priyabratasubhransubehera/Snake-Game/blob/main/Snake%20Game%20.png)
 
 ## 🚀 Features
 
