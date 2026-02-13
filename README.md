@@ -37,15 +37,10 @@ This project demonstrates core programming concepts like game loops, collision d
 
 1️⃣ Make sure Python 3 is installed on your system.
 
-2️⃣ Clone this repository:
-
-git clone https://github.com/your-username/snake-game.git
-
 
 3️⃣ Navigate to the project folder:
 
 cd snake-game
-
 
 4️⃣ Run the game:
 
