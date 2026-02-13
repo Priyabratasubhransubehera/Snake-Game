@@ -38,13 +38,11 @@ This project demonstrates core programming concepts like game loops, collision d
 1️⃣ Make sure Python 3 is installed on your system.
 
 
-3️⃣ Navigate to the project folder:
+2️⃣ Navigate to the project folder:
 
 cd snake-game
 
-4️⃣ Run the game:
-
-- python snake.py
+3️ Run the game
 
 ## 🎯 How to Play
 
